@@ -47,4 +47,3 @@ impl<T> GraphNode<T> {
         GraphNode::<T>{ value: value, childs: vec![] }
     }
 }
-
